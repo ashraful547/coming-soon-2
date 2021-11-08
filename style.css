@@ -58,6 +58,7 @@
 
 
  h1{
+    position: relative;
      text-align:center;
      text-transform: uppercase;
      color: #fff;
@@ -68,6 +69,7 @@
      
  }
  p{
+    position: relative;
     text-align:center;
     text-transform: uppercase;
     color: #fff;
@@ -76,11 +78,12 @@
     
  }
  .imgBx img{
+    position: relative;
     max-width: 500px;
     width: 100%;
     margin-top: 100px;
     /* z-index: 2; */
-    position: relative;
+    
 
     /* position: absolute; */
 
